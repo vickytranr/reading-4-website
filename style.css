@@ -1,3 +1,53 @@
 body{
-    background-image: url("space-nebule-background-tile.jpeg");
+    background-image: url("space-nebula-background-tile.jpeg");
+}
+p {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+.circle1{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    background-color:orange;
+    position:absolute;
+    left:200px;
+    top:600px;
+}
+.circle2{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-color:gold;
+    position:absolute;
+    left:500px;
+    top:400px;
+}
+.circle3{
+    width:130px;
+    height:130px;
+    border-radius: 50%;
+    background-color:rgb(219, 255, 146);
+    position:absolute;
+    left:750px;
+    top:560px;
+}
+.circle4{
+    width:180px;
+    height:180px;
+    border-radius: 50%;
+    background-color:rgb(115, 203, 230);
+    position:absolute;
+    left:1000px;
+    top:440px;
+}
+.circle5{
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    background-color:rgb(168, 132, 200);
+    position:absolute;
+    left:1300px;
+    top:400px;
 }
